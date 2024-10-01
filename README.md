@@ -1,1 +1,1 @@
-## Hi. I'm Bekhruzbek Mahmudjonov <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZwMTRpcXhkY25zNmlvemN5bWtudWNnc3U2OGdsaXlnaGExbWNoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1IB22SuYeEMMPTguL/giphy.webp" width="30px>
+## Hi. I'm Bekhruzbek Mahmudjonov <img src="http: //media3.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecff05e477qqyofvkivw6q0oe6iq6dpk2txm0iyx7kzab3op&rid=giphy.giphy.gif&ct=s" width="30px>
